@@ -162,7 +162,7 @@ button {
 }
 
 .button-cart {
-  display: none;
+  display: block;
   margin: 0 5px;
 }
 
